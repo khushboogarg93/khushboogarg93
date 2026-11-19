@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sita Ram</h1>
+<h1 align="center">Hi 👋, I'm Khushboo Garg</h1>
 
 <h3 align="center">
-Forward Deployed AI Engineer | Generative AI & Agentic AI
+AI Native | Forward Deployed AI Engineer | Generative AI | Agentic AI
 <br />
 LLMs | RAG | AI Agents | Azure AI | Solution Architecture
 <br />
-8+ Years Software Engineering Experience
+12+ Years Software Engineering Experience
 </h3>
 
 ---
@@ -19,13 +19,13 @@ LLMs | RAG | AI Agents | Azure AI | Solution Architecture
 
 ## 🚀 About Me
 
-- 🤖 Forward Deployed AI Engineer / Lead Consultant focused on **Generative AI, Agentic AI, LLM applications, and RAG**.
+- 🤖 AI Native | Forward Deployed AI Engineer | Principal Consultant focused on **Generative AI, Agentic AI, LLM applications, and RAG**.
 - 🧠 Experienced in designing AI-powered solutions using **LLMs, RAG pipelines, AI agents, agent orchestration, tool/function calling, and context management**.
 - ☁️ Hands-on with **Microsoft Foundry, Azure AI, Azure OpenAI, Azure AI Search**, and Azure-based AI application architecture.
 - 🔎 Experienced in designing RAG workflows covering **data ingestion, document processing, chunking, embeddings, vector search, retrieval, reranking, context construction, generation, and citations**.
 - 🤝 Work directly with clients and stakeholders to understand business problems, evaluate technical approaches, build POCs, and drive solutions toward production.
 - 🧩 Experienced in **multi-agent and sub-agent orchestration** for AI-assisted legacy application modernization.
-- 🏗️ Strong software engineering foundation with **8.5 years of experience** across solution architecture, React.js, Next.js, Node.js, TypeScript, JavaScript, APIs, Micro-Frontends, and enterprise application modernization.
+- 🏗️ Strong software engineering foundation with **12.5 years of experience** across ai solution architecture, Python, .Net, Azure Cloud, Fast API, React.js, TypeScript, JavaScript, APIs, Microservices, and enterprise application modernization.
 - 🚀 Interested in building practical AI systems that connect **business problems, AI capabilities, software engineering, and production delivery**.
 
 ---
