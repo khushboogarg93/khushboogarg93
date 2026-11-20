@@ -12,7 +12,7 @@ LLMs | RAG | AI Agents | Azure AI | Solution Architecture
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4F8DF6&center=true&vCenter=true&width=750&lines=Forward+Deployed+AI+Engineer+%F0%9F%A4%96;Generative+AI+%26+Agentic+AI+%F0%9F%A7%A0;LLMs+%7C+RAG+%7C+AI+Agents+%F0%9F%A4%96;Azure+AI+%7C+Microsoft+Foundry+%E2%98%81%EF%B8%8F;AI+Solution+Architecture+%7C+Prototyping+%7C+Delivery+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%E2%9A%9B%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4F8DF6&center=true&vCenter=true&width=750&lines=Forward+Deployed+AI+Engineer+%F0%9F%A4%96;Generative+AI+%26+Agentic+AI+%F0%9F%A7%A0;LLMs+%7C+RAG+%7C+AI+Agents+%F0%9F%A4%96;Azure+AI+%7C+Microsoft+Foundry+%E2%98%81%EF%B8%8F;AI+Solution+Architecture+%7C+Prototyping+%7C+Delivery+%F0%9F%9A%80;React+%7C+Python+%7C+.Net+%7C+Azure Cloud+%7C+TypeScript+%E2%9A%9B%EF%B8%8F" />
 </p>
 
 ---
